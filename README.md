@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="{[BadgeURLHere](https://github-readme-activity-graph.vercel.app/graph?username={username}&theme={theme_name})}" />
 <!--
 **brittanyshelley/brittanyshelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
