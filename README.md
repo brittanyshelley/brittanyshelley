@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](https://github-readme-activity-graph.vercel.app/graph?username={username}&theme={theme_name})
+![image](https://github-readme-activity-graph.vercel.app/graph?username={brittanyshelley}&theme={high-contrast})
 <!--
 **brittanyshelley/brittanyshelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
