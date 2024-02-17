@@ -1,6 +1,9 @@
 ### Hi there 👋
-![image](https://github-readme-activity-graph.vercel.app/graph?username={brittanyshelley}&theme={high-contrast})
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brittanyshelley&theme=gruvbox" />
 <!--
+![image](https://github-readme-activity-graph.vercel.app/graph?username={brittanyshelley}&theme={high-contrast})
+
 **brittanyshelley/brittanyshelley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
