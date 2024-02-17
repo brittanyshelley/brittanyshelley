@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brittanyshelley&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brittanyshelley&theme=synthwave" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=brittanyshelley&theme=synthwave" />
 <!--
 ![image](https://github-readme-activity-graph.vercel.app/graph?username={brittanyshelley}&theme={high-contrast})
 
